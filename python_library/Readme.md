@@ -1,4 +1,4 @@
-Here, I will try to create various ipynb for basic python libraries.
+Here, I will create various ipynb for basic python libraries.
 * numpy
 * pandas
 * matplotlib
